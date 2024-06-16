@@ -1,4 +1,4 @@
-# Algorithm-used-in-dataScience
+# Algorithm used in DataScience Field 
 various types of problems commonly encountered in the data science field along with a list of algorithms for each type
 Sure! Here is the information formatted as requested:
 
