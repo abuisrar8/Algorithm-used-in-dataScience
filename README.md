@@ -9,9 +9,9 @@ Sure! Here is the information formatted as requested:
       - Mode
       - Variance
    - Data Visualization
-      - Histograms
+      - Line PLot
       - Bar Charts
-      - Pie Charts
+      - Histograms
       - Box Plots
    - Exploratory Data Analysis (EDA) Techniques
    - Principal Component Analysis (PCA)
